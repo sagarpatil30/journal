@@ -32,7 +32,7 @@ export default function Home() {
                   <div className="h-3 w-3 rounded-full bg-white" />
                 </div>
               </div>
-              <div className="space-y-4">
+              <div className="space-y-4 p-4">
                 <h3 className="text-white">Daily prompts</h3>
                 <Skeleton className="h-2 bg-white rounded w-3/4" />
                 <Skeleton className="h-2 bg-white rounded w-full" />
